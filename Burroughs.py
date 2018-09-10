@@ -51,7 +51,7 @@ async def help(ctx):
 async def echo(ctx, *args):
     #Echo a message from user
     if args[0] == "-s":
-        await client.send_message(discord.Object(id='426898544754950149'), " ".join(args[1::]))
+        await client.send_message(discord.Object(id='YOUR CHAT BOARD HERE'), " ".join(args[1::]))
     else:
         await client.say(" ".join(args))
 
