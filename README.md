@@ -5,9 +5,9 @@ A bot which provides added functionality to discord chat. Adds ability to create
 Install pip3
 
 Packages needed:
-pynacl version 1.2.1
-asyncio version 3.4.3
-youtube-dl version 2018.9.10
+pynacl version 1.2.1,
+asyncio version 3.4.3,
+youtube-dl version 2018.9.10,
 discord.py version 0.16.12
 
 
