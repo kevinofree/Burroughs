@@ -1,0 +1,4 @@
+pynacl==1.2.1
+asyncio==3.4.3
+youtube_dl==2018.9.10
+discord.py==0.16.12
